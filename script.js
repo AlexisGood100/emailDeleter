@@ -11,3 +11,6 @@ function deleteEmails() {
       }
     }
   }
+
+// note from creator. If you do use this, I would write the emails down or use a google sheet to do so then filter them effectively so that you don't need 
+// to just keep running this over and over. I may add a function to block the from: ' ' threads I.P if possible.  Will update accordingly.
